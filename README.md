@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Deepak T and I'm a full-stack Developer from India 🇮🇳</h2>
+<h2 align="left">My name is Deepak T and I'm a full-stack Developer from India :flag_india: </h2>
 
 ###
 
